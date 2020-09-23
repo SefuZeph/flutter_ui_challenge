@@ -1,3 +1,3 @@
 # flutter_ui_challenge
 ### Part 1
-<img src="https://user-images.githubusercontent.com/11628897/90851929-d197ea80-e37e-11ea-8c98-6e1751fccd6d.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/11628897/93957607-4afb7200-fd5d-11ea-90d2-112371826f82.jpg" width="250">
