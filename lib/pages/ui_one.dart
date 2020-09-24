@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-class UISix extends StatefulWidget {
-  UISix({Key key}) : super(key: key);
+class UIOne extends StatefulWidget {
+  UIOne({Key key}) : super(key: key);
 
   _UISixState createState() => _UISixState();
 }
 
-class _UISixState extends State<UISix> {
+class _UISixState extends State<UIOne> {
   var _scrollViewOffsetY = 0.0;
 
   double get _imageHeight {

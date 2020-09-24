@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_challenge/pages/ui_one.dart';
+import 'package:flutter_ui_challenge/pages/ui_two.dart';
 
 void main() {
   runApp(MyApp());
@@ -16,15 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: Scaffold(
-        appBar: PreferredSize(
-          preferredSize: Size.fromHeight(0),
-          child: AppBar(
-            backgroundColor: Color(0xfff79631),
-          ),
-        ),
-        body: UISix(),
-      ),
+      home: UITwo(),
     );
   }
 }
